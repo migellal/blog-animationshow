@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AnimationShow</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_second">AnimationShow/SecondActivity</string>
+    <string name="prev">previous activity</string>
+    <string name="next">next activity</string>
+    <string name="title_activity_first">AnimationShow/FirstActivity</string>
+</resources>
